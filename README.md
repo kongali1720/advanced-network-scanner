@@ -1,17 +1,20 @@
+# Advanced Network Scanner
 
----
+A fast, multi-threaded network port scanner with service detection and banner grabbing.
+Supports scanning IP ranges and exporting results in JSON and CSV formats.
+Built with Python.
 
-**Cara simpan dengan nano:**
+## Features
 
-1. Ketik `nano README.md` di terminal kamu  
-2. Hapus isi file yang lama (jika ada) dengan `Ctrl + K` (untuk hapus baris) sampai kosong  
-3. Copy paste seluruh teks di atas ke nano (klik kanan > paste atau shift+insert)  
-4. Setelah selesai, tekan `Ctrl + O` lalu enter untuk simpan  
-5. Tekan `Ctrl + X` untuk keluar nano  
+- Multi-threaded scanning for speed
+- Banner grabbing to identify services
+- Supports common ports with service names
+- Export results to JSON and CSV
+- Simple command line interface
 
-**Lalu commit dan push ke GitHub:**
+## Usage
 
 ```bash
-git add README.md
-git commit -m "Update README with correct formatting and badge"
-git push origin main
+python advanced_scanner.py <host> <start_port> <end_port> [--threads THREADS] [--json] [--csv]
+
+🍺 - [PayPal: Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99)
