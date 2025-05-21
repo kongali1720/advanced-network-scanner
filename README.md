@@ -17,6 +17,6 @@ Built with Python.
 ```bash
 python advanced_scanner.py <host> <start_port> <end_port> [--threads THREADS] [--json] [--csv]
 
-🍺 Dukungan
+## 🍺 Dukungan
 
-PayPal: Buy Me a Coffee
+**PayPal:** [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99)
