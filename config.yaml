@@ -1,0 +1,15 @@
+# config.yaml for Advanced Network Scanner
+
+host: 127.0.0.1
+ports:
+  start: 20
+  end: 80
+
+options:
+  threads: 100
+  export_formats:
+    - json
+    - csv
+
+support:
+  buy_me_coffee: "https://www.paypal.com/paypalme/bungtempong99"
