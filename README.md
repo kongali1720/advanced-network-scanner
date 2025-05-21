@@ -39,6 +39,6 @@ Support
 
 Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
 
-- **PayPal**: [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99) 
+**PayPal**: [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99) 
 
 Terima kasih atas dukungannya!
