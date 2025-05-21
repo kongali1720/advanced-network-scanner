@@ -1,22 +1,34 @@
 # Advanced Network Scanner
 
-A fast, multi-threaded network port scanner with service detection and banner grabbing.
-Supports scanning IP ranges and exporting results in JSON and CSV formats.
-Built with Python.
+Scanner port canggih dengan dukungan multithread, output dalam format JSON/CSV, dan deteksi layanan.
 
-## Features
-
-- Multi-threaded scanning for speed
-- Banner grabbing to identify services
-- Supports common ports with service names
-- Export results to JSON and CSV
-- Simple command line interface
-
-## Usage
+## Cara Menggunakan
 
 ```bash
 python advanced_scanner.py <host> <start_port> <end_port> [--threads THREADS] [--json] [--csv]
 
-## 🍺 Dukungan
-**PayPal:** [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99)
+python advanced_scanner.py 192.168.1.1 1 1000 --threads 50 --json
 
+## Fitur
+
+    🔎 Pemindaian port TCP
+
+    🚀 Multithreading (lebih cepat)
+
+    📄 Output ke JSON atau CSV
+
+    💬 Deteksi banner layanan (service banner)
+
+## Instalasi
+
+git clone https://github.com/kongali1720/advanced-network-scanner.git
+cd advanced-network-scanner
+python -m venv venv
+source venv/bin/activate  # atau venv\Scripts\activate di Windows
+pip install -r requirements.txt
+
+## 🍺 Dukungan
+
+Jika kamu suka proyek ini dan ingin mendukung, silakan:
+
+👉 PayPal: Buy Me a Coffee
