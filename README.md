@@ -27,13 +27,18 @@ python -m venv venv
 source venv/bin/activate  # atau venv\Scripts\activate di Windows
 pip install -r requirements.txt
 
-☕ Buy Me a Coffee
+Dengan mengikuti langkah-langkah ini, kontribusimu akan lebih mudah diintegrasikan ke dalam project. Lisensi
 
-Jika kamu merasa project ini bermanfaat, dukung dengan kopi:
-- **PayPal**: [Buy Me a Coffee](https://www.paypal.com/paypalme/bungtempong99) 
+Distributed under the MIT License. See LICENSE for more information. Kontak
 
-📩 ### Kontak
+    Nama: Kongali1720
+    Email: kongali1720@gmail.com
+    GitHub: https://github.com/kongali1720
 
-- **Nama**: Kongali1720
-- **Email**: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)
-- **GitHub**: [https://github.com/kongali1720](https://github.com/kongali1720)
+Support
+
+Jika kamu merasa project ini bermanfaat dan ingin mendukung pengembangan lebih lanjut, kamu bisa mentransfer sedikit dukungan melalui PayPal:
+
+Buy Me a Coffee
+
+Terima kasih atas dukungannya!
